@@ -1,0 +1,47 @@
+{"zaposlenici":[
+    {
+       "ime": "Mirko",
+       "prezime": "Marulic",
+       "slika": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre-Person.jpg/220px-Pierre-Person.jpg",
+       "spol": "M",
+       "datumRodenja":"17-7-2000",
+       "datumZaposlenja": "2018-12-11",
+       "tipUgovora": "Neodredno",
+       "datumKrajaUgovora": "2019-12-11",
+       "odjel": "IT"
+    },
+    
+     {
+        "ime": "Marko",
+        "prezime": "Markulija",
+        "slika": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?size=626&ext=jpg",
+        "spol": "M",
+        "datumRodenja":"15-8-1983",
+        "datumZaposlenja": "2015-08-01",
+        "tipUgovora": "Odredno",
+        "datumKrajaUgovora": "2020-12-11",
+        "odjel": "Računovodstvo"
+     },
+     {
+        "ime": "Iva",
+        "prezime": "Ivić",
+        "slika": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "spol": "Ž",
+        "datumRodenja":"20-3-1993",
+        "datumZaposlenja": "2018-12-11",
+        "tipUgovora": "Neodredno",
+        "datumKrajaUgovora": "2019-11-11",
+        "odjel": "Prodaja"
+     },
+     {
+        "ime": "Iva",
+        "prezime": "Ivić",
+        "slika": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "spol": "Ž",
+        "datumRodenja":"20-3-1993",
+        "datumZaposlenja": "2018-12-11",
+        "vrstaUgovor": "Neodredno",
+        "datumKrajaUgovora": "2019-11-11",
+        "odjel": "Prodaja"
+     }
+]}
